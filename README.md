@@ -3,21 +3,22 @@
 ![Java](https://img.shields.io/badge/Java-Latest-orange?style=flat-square&logo=java)
 ![Android](https://img.shields.io/badge/Android-API%2021+-green?style=flat-square&logo=android)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square)
-![Downloads](https://img.shields.io/github/downloads/NISARGAGOWDRU/Music-MP3-Audio-Player/total?style=flat-square)
 
 A feature-rich Android music player application built with Java and Android Studio.
 
-![Music Player](https://raw.githubusercontent.com/NISARGAGOWDRU/Music-MP3-Audio-Player/main/assets/player_ui.png)
+## Demo Images
+
+![Music Player](https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80)
 
 ##  Features
 
 -  MP3 Playback - High-quality audio
--  File Management - Browse and organize
+-  File Management - Browse and organize music
 -  Media Controls - Play, pause, next, previous
 -  Playlist Support - Create and manage playlists
--  Volume Control - Adjustable levels
+-  Volume Control - Adjustable audio levels
 -  Shuffle & Repeat - Multiple playback modes
--  Dark Theme - Easy on the eyes
+-  Dark Theme - Eye-friendly interface
 
 ##  Technologies
 
@@ -28,8 +29,10 @@ A feature-rich Android music player application built with Java and Android Stud
 ##  Quick Start
 
 1. Open Android Studio
-2. File  Open  Select project
-3. Click "Run" button
+2. File  Open  Select project folder
+3. Connect Android device or start emulator
+4. Click "Run" (Green play button)
+5. Enjoy your music!
 
 ##  Supported Formats
 
