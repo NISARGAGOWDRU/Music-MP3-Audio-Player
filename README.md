@@ -1,6 +1,13 @@
 #  Music MP3 Audio Player
 
+![Java](https://img.shields.io/badge/Java-Latest-orange?style=flat-square&logo=java)
+![Android](https://img.shields.io/badge/Android-API%2021+-green?style=flat-square&logo=android)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square)
+![Downloads](https://img.shields.io/github/downloads/NISARGAGOWDRU/Music-MP3-Audio-Player/total?style=flat-square)
+
 A feature-rich Android music player application built with Java and Android Studio.
+
+![Music Player](https://raw.githubusercontent.com/NISARGAGOWDRU/Music-MP3-Audio-Player/main/assets/player_ui.png)
 
 ##  Features
 
@@ -14,17 +21,20 @@ A feature-rich Android music player application built with Java and Android Stud
 
 ##  Technologies
 
-- Java, Android Studio, Android SDK 21+, MediaPlayer API
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 ##  Quick Start
 
 1. Open Android Studio
 2. File  Open  Select project
 3. Click "Run" button
-4. Enjoy your music player!
+
+##  Supported Formats
+
+ MP3 |  WAV |  AAC |  OGG |  FLAC
 
 ##  License
 
-Apache License 2.0
-
-**Made with  by NISARGA GOWDRU**
+Apache License 2.0 - **Made with  by NISARGA GOWDRU**
